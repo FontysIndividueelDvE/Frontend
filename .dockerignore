@@ -1,0 +1,11 @@
+# Ignore node modules
+node_modules
+
+# Ignore .git directory
+.git
+
+# Ignore environment variables file
+.env
+
+# Ignore any log files
+*.log   
